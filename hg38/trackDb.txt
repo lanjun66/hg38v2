@@ -38,7 +38,6 @@ longLabel Low Microsatellites Density Peaks
 type bigBed 9
 visibility dense
 priority 4
-spectrum on
 
 track Gap
 html Gap.html
