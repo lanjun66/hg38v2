@@ -1,0 +1,6 @@
+hub MicrosatellitesDensityLandscape
+shortLabel Microsatellites Density Landscape
+longLabel Mapping and Sequencing
+genomesFile genomes.txt
+email 1966914995@qq.com
+descriptionUrl MicrosatellitesDensityLandscape.html
