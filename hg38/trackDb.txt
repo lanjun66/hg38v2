@@ -13,6 +13,7 @@ track HMDP
 html HMDP.html
 bigDataUrl hg38HMDP.bb
 itemRgb on
+maxItems 10000
 shortLabel HMDP
 longLabel High Microsatellites Density Peaks
 type bigBed 9
@@ -24,7 +25,7 @@ track MMDP
 html MMDP.html
 bigDataUrl hg38MMDP.bb
 itemRgb on
-maxItems 10000
+maxItems 1000000
 shortLabel MMDP
 longLabel Middle Microsatellites Density Peaks
 type bigBed 9
@@ -36,7 +37,7 @@ track LMDP
 html LMDP.html
 bigDataUrl hg38LMDP.bb
 itemRgb on
-maxItems 10000
+maxItems 1000000
 shortLabel LMDP
 longLabel Low Microsatellites Density Peaks
 type bigBed 9
@@ -48,7 +49,7 @@ track Gap
 html Gap.html
 bigDataUrl hg38GAP.bb
 itemRgb on
-maxItems 10000
+maxItems 100000
 shortLabel Gap
 longLabel Gap
 type bigBed 9
