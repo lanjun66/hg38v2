@@ -1,4 +1,4 @@
-hub MicrosatellitesDensityLandscape
+hub MappingAndSequencing
 shortLabel Mapping and Sequencing
 longLabel Mapping and Sequencing
 genomesFile genomes.txt
