@@ -12,7 +12,6 @@ priority 1
 track HMDP
 html HMDP.html
 bigDataUrl hg38HMDP.bb
-maxItems 10000
 shortLabel HMDP
 longLabel High Microsatellites Density Peaks
 type bigBed 9
