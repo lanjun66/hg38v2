@@ -36,6 +36,7 @@ shortLabel LMDP
 longLabel Low Microsatellites Density Peaks
 type bigBed 9
 visibility dense
+spectrum on
 priority 4
 
 track Gap
